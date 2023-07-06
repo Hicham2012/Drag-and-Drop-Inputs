@@ -84,7 +84,7 @@ function App() {
   const Table = () => {
     return (
       <>
-        <table data-testid="table" className='table w-50 p-3'>
+        <table data-testid="table" className={isMobile ? 'table w-50 p-3' : 'table w-25 p-3'}>
       <thead>
         <tr>
           <th scope="col">Id</th>
