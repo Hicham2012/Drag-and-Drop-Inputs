@@ -44,3 +44,22 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Process
+### Figma
+I started by sketching on an piece of paper then making wireframes on Figma
+![DesktopWireframe - 1](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/bef2422b-9dd5-45f6-8b4f-31a939cd0eda)
+
+After visualizing the main idea, I switched to organizing the design system and prototyping.
+![Desktop - 1](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/ec469799-8021-43dd-bda6-638f819892f3)
+
+Click [here](https://www.figma.com/file/H1erQEAQaSBuKuIwIqN1TH/PayTic?type=design&node-id=8%3A112&mode=design&t=iQYsxZtwRjaiHPdB-1) to view the Figma file directly
+
+## Tech tools
+
+I decided to get out of my comfort zone of using vanilla CSS mostly and Javascript and use these tools instead: 
+<li>Typescript</li>
+<li>SASS</li>
+<li>Bootstrap</li>
+
+
