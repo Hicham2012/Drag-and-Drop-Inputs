@@ -1,6 +1,7 @@
 # Preview
 
-![054dfc34-61ef-4d04-ac06-c2ac6b79c56e](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/dc68a77c-74bb-4498-821a-9fd48cde0a60)
+![ezgif com-video-to-gif (1)](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/1be810fe-88af-45b7-abd3-f1285eb34ffa)
+
 
 # Getting Started with Create React App
 
