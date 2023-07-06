@@ -1,4 +1,4 @@
-#Previw
+# Preview
 ![054dfc34-61ef-4d04-ac06-c2ac6b79c56e](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/dc68a77c-74bb-4498-821a-9fd48cde0a60)
 
 # Getting Started with Create React App
