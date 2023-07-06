@@ -67,9 +67,12 @@ PS: Make sure to switch between pages.
 ## Tech tools
 
 I decided to get out of my comfort zone of using vanilla CSS mostly and Javascript and use these tools instead: 
+<li>React</li>
 <li>Typescript</li>
 <li>SASS</li>
 <li>Bootstrap</li>
+<li>Jest</li>
+<li>React DnD</li>
 
 ## Credits
 The first time exploring libraries such as React-Dnd was challenging and required a lot of research and resilience.
