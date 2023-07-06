@@ -1,5 +1,10 @@
 # Preview
+### Desktop view:
 ![054dfc34-61ef-4d04-ac06-c2ac6b79c56e](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/dc68a77c-74bb-4498-821a-9fd48cde0a60)
+
+### Mobile view:
+![ezgif com-video-to-gif](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/9d5be50c-7c33-41a0-b823-f9c0741c2ffd)
+
 
 # Getting Started with Create React App
 
@@ -40,17 +45,17 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Check out the [React documentation](https://reactjs.org/) to learn React.
 
 ## Process
 ### Figma
-I started by sketching on an piece of paper then making wireframes on Figma
+I started by sketching on a piece of paper and then making wireframes on Figma
 ![DesktopWireframe - 1](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/bef2422b-9dd5-45f6-8b4f-31a939cd0eda)
 
 After visualizing the main idea, I switched to organizing the design system and prototyping.
@@ -71,5 +76,5 @@ I decided to get out of my comfort zone of using vanilla CSS mostly and Javascri
 <li>Bootstrap</li>
 
 ## Credits
-First time exploring libraries such as React-Dnd was challenging and required a lot of research and resilience.
+The first time exploring libraries such as React-Dnd was challenging and required a lot of research and resilience.
 I would like to thank Artem Diashkin for the amazing educational blog they wrote, check it [here](https://medium.com/litslink/react-dnd-in-examples-ce509b25839d)
