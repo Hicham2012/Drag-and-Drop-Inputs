@@ -3,7 +3,7 @@
 ![054dfc34-61ef-4d04-ac06-c2ac6b79c56e](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/dc68a77c-74bb-4498-821a-9fd48cde0a60)
 
 ### Mobile view:
-![ezgif com-video-to-gif](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/9d5be50c-7c33-41a0-b823-f9c0741c2ffd)
+![ezgif com-video-to-gif](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/9d5be50c-7c33-41a0-b823-f9c0741c2ffd | width=100)
 
 
 # Getting Started with Create React App
