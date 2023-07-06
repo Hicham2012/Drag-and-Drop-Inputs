@@ -54,6 +54,8 @@ After visualizing the main idea, I switched to organizing the design system and 
 ![Desktop - 1](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/ec469799-8021-43dd-bda6-638f819892f3)
 
 Click [here](https://www.figma.com/file/H1erQEAQaSBuKuIwIqN1TH/PayTic?type=design&node-id=8%3A112&mode=design&t=iQYsxZtwRjaiHPdB-1) to view the Figma file directly
+PS: Make sure to switch between pages.
+![Capture d’écran 2023-07-06 150749](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/3c22ff03-c77d-4a54-b8d0-a6fccd0aa4c8)
 
 ## Tech tools
 
