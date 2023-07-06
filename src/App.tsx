@@ -61,7 +61,6 @@ function App() {
         <tr key={item.id}>
           <th scope='row'>{id += 1}</th>
           <td>{item.finalValue}</td>
-
         </tr>
     </>
   )});
@@ -83,8 +82,8 @@ function App() {
 
   const Table = () => {
     return (
-      <>
-        <table data-testid="table" className={isMobile ? 'table w-50 p-3' : 'table w-25 p-3'}>
+     
+    <table data-testid="table" className='w-25 p-3 extra-table'>
       <thead>
         <tr>
           <th scope="col">Id</th>
@@ -94,14 +93,10 @@ function App() {
       <tbody>
         {filteredNames}
       </tbody>
-      </table>
-      </>
+   </table>
+     
     )
   }
-
-function handleClick() {
-  console.log('clicked')
-}
 
   return (
     <div data-testid="page" className='flex'>
