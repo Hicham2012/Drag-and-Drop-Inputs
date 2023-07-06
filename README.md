@@ -62,4 +62,6 @@ I decided to get out of my comfort zone of using vanilla CSS mostly and Javascri
 <li>SASS</li>
 <li>Bootstrap</li>
 
-
+## Credits
+First time exploring libraries such as React-Dnd was challenging and required a lot of research and resilience.
+I would like to thank Artem Diashkin for the amazing educational blog they wrote, check it [here](https://medium.com/litslink/react-dnd-in-examples-ce509b25839d)
