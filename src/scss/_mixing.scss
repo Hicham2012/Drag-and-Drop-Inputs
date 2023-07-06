@@ -1,0 +1,23 @@
+@import './variable';
+@mixin flex($direction) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: $direction;
+}
+
+@mixin containBox() {
+    height: 400px;
+    width: 200px;
+    // margin: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+@mixin buttonText() {
+    font-family: $main-font;
+    font-weight: $button-text;
+}
