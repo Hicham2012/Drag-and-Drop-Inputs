@@ -1,10 +1,6 @@
 # Preview
-### Desktop view:
+
 ![054dfc34-61ef-4d04-ac06-c2ac6b79c56e](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/dc68a77c-74bb-4498-821a-9fd48cde0a60)
-
-### Mobile view:
-![ezgif com-resize](https://github.com/Hicham2012/Drag-and-Drop-Inputs/assets/99765449/f64cad81-e179-4910-83c9-5c7a93421105)
-
 
 # Getting Started with Create React App
 
