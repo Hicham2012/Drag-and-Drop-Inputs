@@ -40,8 +40,6 @@ function App() {
     setParentValue(value);
   }
 
-  console.log(parentValue)
-
   const returnItemsForColumn = (columnName: any) => {
     return items
           .filter((item) => item.column === columnName)
@@ -83,7 +81,7 @@ function App() {
   const Table = () => {
     return (
      
-    <table data-testid="table" className='w-25 p-3 extra-table'>
+    <table data-testid="table" className={isMobile ? 'w-50 p-3 extra-table' : 'w-25 p-3 extra-table'}>
       <thead>
         <tr>
           <th scope="col">Id</th>
