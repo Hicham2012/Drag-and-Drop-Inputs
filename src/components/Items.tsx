@@ -78,7 +78,7 @@ export const MovableItem = ({name, setItems, type, onChildValue, valueName, valu
                 })
                 }}/>
                 Male
-              </label> <br />
+              </label>
 
               <label htmlFor='female'>
                 <input type="radio" name="gender"  id='female' checked={valueGender === 'Female'} onChange={(e) => {
