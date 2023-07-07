@@ -116,6 +116,7 @@ label[for="male"],
 label[for="female"] {
     display: flex;
     gap: 4px;
+    font-weight: $input-text-table-values;
 }
 
 table {
