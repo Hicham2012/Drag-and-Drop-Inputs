@@ -114,7 +114,8 @@ label[for="nickname"] {
 
 label[for="male"],
 label[for="female"] {
-    gap: 3px;
+    display: flex;
+    gap: 4px;
 }
 
 table {
