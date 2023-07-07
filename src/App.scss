@@ -112,6 +112,11 @@ label[for="nickname"] {
     font-weight: $label-table-titles;
 }
 
+label[for="male"],
+label[for="female"] {
+    margin-left: 1px;
+}
+
 table {
     border-radius: $medium-round;
     background-color: $main-color-2;
