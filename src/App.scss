@@ -115,6 +115,7 @@ label[for="nickname"] {
 label[for="male"],
 label[for="female"] {
     display: flex;
+    align-items: center;
     gap: 4px;
     font-weight: $input-text-table-values;
 }
